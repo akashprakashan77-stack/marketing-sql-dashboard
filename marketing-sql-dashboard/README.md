@@ -73,9 +73,9 @@ ROI = Total Revenue / Campaign Budget
 
 ---
 
-## 📸 Sample Output
+## 📸  Output
 
-(Add your screenshot here – e.g., ROI results table)
+![ROI Result](screenshots/roi_analysis.png)
 
 ---
 
